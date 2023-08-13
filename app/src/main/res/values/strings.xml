@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GymBro</string>
+
+    <string-array name="opzioni">
+        <item>Home</item>
+        <item>Profilo</item>
+        <item>Schede</item>
+        <item>Preferiti</item>
+    </string-array>
+</resources>
